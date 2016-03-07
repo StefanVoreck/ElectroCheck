@@ -1,0 +1,55 @@
+|AIR RAID SIREN                          |   0.00|    0|   0.00|   PENDING|          0|                  0|
+|STEPPER DRIVER                          |   0.00|    0|   0.00|   PENDING|          0|                  0|
+|STEPPER MOTOR NEMA17                    |   0.00|    0|   0.00|   PENDING|          0|                  0|
+|BATTERY HOLDER. 4 AA (6V)               |  44.14|   10|   4.41|   ORDERED|     160228|             160404|
+|HEART RATE SENSOR                       |  30.32|    1|  30.32|   ORDERED|     160228|             160401|
+|NE555                                   |  10.97|   20|   0.55|   ORDERED|     160228|             160401|
+|PHOTORESISTOR                           |   8.83|   20|   0.44|   ORDERED|     160228|             160404|
+|POTENTIOMETER 5K                        |  19.89|   10|   1.99|   ORDERED|     160228|             160401|
+|SERVO HIGH TORQUE                       | 195.00|    5|  39.00|   ORDERED|     160228|             160330|
+|SIM800L                                 | 186.43|    3|  62.14|   ORDERED|     160228|             160401|
+|DC MOTOR 12V 300RPM                     | 188.69|    6|  31.45|   ORDERED|     160223|             160323|
+|ARDUINO NANO                            | 307.08|   15|  20.47|   ORDERED|     160222|             160324|
+|ARDUINO NANO                            | 204.10|   10|  20.41|   ORDERED|     160222|             160324|
+|BREADBOARD                              |  68.69|    5|  13.74|   ORDERED|     160222|             160323|
+|BREADBOARD                              |  68.69|    5|  13.74|   ORDERED|     160222|             160323|
+|RF TRANSMITTER 433MHZ                   |  30.93|    5|   6.19|   ORDERED|     160222|             160324|
+|RF TRANSMITTER 433MHZ                   | 154.65|   25|   6.19|   ORDERED|     160222|             160324|
+|RGB LED                                 |  46.97|  100|   0.47|   ORDERED|     160222|             160324|
+|RGB LED                                 |  46.97|  100|   0.47|   ORDERED|     160222|             160324|
+|TSOP4838                                |  33.20|   10|   3.32|   ORDERED|     160222|             160324|
+|WIRE CUTTER                             |  40.72|    2|  20.36|   ORDERED|     160222|             160321|
+|WIRE CUTTER                             |  52.11|    2|  26.06|   ORDERED|     160222|             160425|
+|DC MOTOR 3-6V                           |  18.84|    5|   3.77|   ORDERED|     160220|             160330|
+|DC MOTOR 3-6V                           |  19.14|    5|   3.83|   ORDERED|     160220|             160321|
+|OMNIDIRECTIONAL WHEEL                   |   8.72|    1|   8.72|   ORDERED|     160220|             160329|
+|OMNIDIRECTIONAL WHEEL                   |   8.72|    1|   8.72|   ORDERED|     160220|             160329|
+|SERVO NT 9G                             | 148.14|   10|  14.81|   ORDERED|     160218|             160323|
+|RELAY SRD-5VDC                          |  28.45|   10|   2.85|   ORDERED|     160209|             160315|
+|RELAY SRD-5VDC                          |  26.90|   10|   2.69|   ORDERED|     160209|             160314|
+|RELAY SRD-5VDC                          |  26.90|   10|   2.69|   ORDERED|     160209|             160314|
+|ULTRASONIC HC-SR04                      |  34.14|    5|   6.83|   ORDERED|     160204|             160308|
+|WEIGHING SCALE                          |  56.72|    1|  56.72|   ORDERED|     160204|                  0|
+|RESISTOR 62OHM                          |   8.82|  100|   0.09|   ORDERED|     160202|             160311|
+|CAPACITOR 22PF                          |   8.86|  100|   0.09|   ARRIVED|     160124|             160302|
+|TWEEZER VETUS ESD-14                    |   8.82|    1|   8.82|   ARRIVED|     160114|             160217|
+|TWEEZER VETUS ESD-15                    |   8.82|    1|   8.82|   ARRIVED|     160114|             160217|
+|ARDUINO UNO                             |  52.12|    1|  52.12|   ARRIVED|     160109|             160210|
+|ATMEGA328, ARDUINO BOOTLOADER           |  63.36|    5|  12.67|   ARRIVED|     160109|             160205|
+|C14 SOCKET                              |  35.40|    6|   5.90|   ARRIVED|     160109|             160210|
+|DIODE 1N4001                            |   8.81|  100|   0.09|   ARRIVED|     160109|             160208|
+|DIP-28                                  |   8.81|   10|   0.88|   ARRIVED|     160109|             160216|
+|FEMALE HEADER 40 PIN                    |  10.14|   10|   1.01|   ARRIVED|     160109|             160211|
+|FUSE SOCKET                             |  12.93|   10|   1.29|   ARRIVED|     160109|             160209|
+|HC-05                                   | 151.17|    5|  30.23|   ARRIVED|     160109|             160211|
+|IR DIODE 940NM                          |   8.81|  100|   0.09|   ARRIVED|     160109|             160212|
+|PCB TERMINAL BLOCK, 3 PIN               |  24.34|   30|   0.81|   ARRIVED|     160109|             160211|
+|RELAY SRA-05VDC-CL                      |  69.36|   20|   3.47|   ARRIVED|     160109|             160210|
+|RESISTOR 150OHM                         |   8.81|  100|   0.09|   ARRIVED|     160109|             160211|
+|RESISTOR 6,2OHM                         |   8.81|  100|   0.09|   ARRIVED|     160109|             160210|
+|SCHUKO SOCKET, LID                      | 567.53|   16|  35.47|   ARRIVED|     160109|             160210|
+|SMPS 5V 700MA                           |  45.90|    4|  11.48|   ARRIVED|     160109|             160208|
+|SMPS 5V 700MA                           |  11.48|    1|  11.48|   ARRIVED|     160109|             160208|
+|SOLID CORE WIRE, 24AWG                  | 104.00|  100|   1.04|   ARRIVED|     160109|             160112|
+|STRIPBOARD 70MM X 90MM                  |  62.16|   10|   6.22|   ARRIVED|     160109|             160211|
+|TSOP4838                                |  32.28|   10|   3.23|   ARRIVED|     160109|             160205|
